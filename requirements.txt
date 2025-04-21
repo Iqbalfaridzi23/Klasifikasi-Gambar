@@ -1,0 +1,4 @@
+tensorflow==2.14.0
+tensorflowjs==4.10.0
+matplotlib
+keras
